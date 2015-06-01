@@ -17,4 +17,4 @@ In the current setup init is the only supported lifecycle event
 * To install::
 
     $ git clone https://github.com/TCS-TelcoCloud/vnfmanager.git
-    $ python setup.py install_lib install_egg_info
+    $ python setup.py install
